@@ -1,0 +1,1 @@
+insert into tb1 values(1,'aaa',10,'zzz'),(2,'bbb',11,'yyy'),(3,'ccc',12,'xxx'),(4,'ddd',13,'vvv'),(5,'eee',14,'uuu');
